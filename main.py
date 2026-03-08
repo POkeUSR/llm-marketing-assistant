@@ -117,4 +117,16 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+# Кнопка AI-автоматизация процессов
+st.markdown(
+    """
+    <div style='text-align: center; font-size: 16px; margin-top: 30px;'>
+        <a href="https://c2r.asia/smartops" target="_blank" style="text-decoration: none; color: #1f77b4;">
+            👉 AI-автоматизация процессов
+        </a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
                 
